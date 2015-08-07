@@ -48,5 +48,3 @@
               (first)
               ))))))
 
-(get-bd-download-link
- "http://pan.baidu.com/s/1sJovW")
